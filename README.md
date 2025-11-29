@@ -4,14 +4,14 @@
 An end-to-end data analytics project that simulates a real SaaS/OTT business environment and performs full-stack analysis using Python (Pandas, NumPy), SQL, and Power BI.
 The goal is to understand customer churn, revenue loss, user engagement, retention patterns, and behavior segmentation.
 
-📌 Overview
+Overview
 
 This project analyzes a subscription-based business using four datasets: customers, usage, payments, and churn.
 It includes complete data cleaning, transformation, SQL analytics, exploratory analysis, and the creation of a Power BI dashboard for business insights.
 
 This project demonstrates skills required for Data Analyst, Business Analyst, and Power BI Analyst roles.
 
-📂 Dataset Description
+Dataset Description
 
 The project uses 4 CSV files (synthetic but realistic):
 
@@ -19,8 +19,9 @@ Dataset	Description
 customers.csv	Customer demographics, city, signup date, subscription plan
 usage_data.csv	Monthly watch-time, activity score, pages viewed
 payments.csv	Monthly subscription payment logs, plan, amount, payment status
-churn.csv	Churned customers with churn date and churn reason
-🛠️ Tools & Technologies Used
+churn.csv	Churned customers with churn date and churn reason.
+
+Tools & Technologies Used
 
 Python (Pandas, NumPy)
 
@@ -36,7 +37,7 @@ DAX Measures
 
 Visualization & Dashboard Design
 
-🧹 Steps Performed
+ Steps Performed
 1. Data Loading & Cleaning (Python)
 
 Handled missing values, incorrect types, duplicates
@@ -91,11 +92,11 @@ Behavior-based churn (activity scores, payment failures)
 
 DAX for advanced metrics: churn rate, LTV, active user rate
 
-📊 Dashboard Preview
+ Dashboard Preview
 
 (Add your dashboard screenshots here after publishing.)
 
-📈 Key Insights
+ Key Insights
 
 Customers with low activity scores showed 60% higher churn rate
 
@@ -107,7 +108,7 @@ Churn peaked in month 5–6 after signup
 
 Gurugram & Bengaluru showed highest churn, Mumbai the lowest
 
-💼 What This Project Shows
+ What This Project Shows
 
 This project highlights your ability to:
 
