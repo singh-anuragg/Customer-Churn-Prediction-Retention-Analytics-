@@ -4,7 +4,7 @@
 An end-to-end data analytics project that simulates a real SaaS/OTT business environment and performs full-stack analysis using Python (Pandas, NumPy), SQL, and Power BI.
 The goal is to understand customer churn, revenue loss, user engagement, retention patterns, and behavior segmentation.
 
-Overview
+## Overview
 
 This project analyzes a subscription-based business using four datasets: customers, usage, payments, and churn.
 It includes complete data cleaning, transformation, SQL analytics, exploratory analysis, and the creation of a Power BI dashboard for business insights.
@@ -94,7 +94,7 @@ DAX for advanced metrics: churn rate, LTV, active user rate
 
  Dashboard Preview
 
-![Alt text of the image](https://github.com/singh-anuragg/Sales-Dashboard/blob/main/Screenshot%202025-10-11%20111527.png)
+![Alt text of the image]([https://github.com/singh-anuragg/Sales-Dashboard/blob/main/Screenshot%202025-10-11%20111527.png)
 
  Key Insights
 
