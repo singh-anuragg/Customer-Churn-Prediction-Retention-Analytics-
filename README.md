@@ -11,34 +11,34 @@ It includes complete data cleaning, transformation, SQL analytics, exploratory a
 
 This project demonstrates skills required for Data Analyst, Business Analyst, and Power BI Analyst roles.
 
-**Dataset Description**
+## Dataset Description
 
 The project uses 4 CSV files (synthetic but realistic):
 
-### Dataset	Description
-customers.csv	Customer demographics, city, signup date, subscription plan
-usage_data.csv	Monthly watch-time, activity score, pages viewed
-payments.csv	Monthly subscription payment logs, plan, amount, payment status
-churn.csv	Churned customers with churn date and churn reason.
+**Dataset	Description**
+1.customers.csv	Customer demographics, city, signup date, subscription plan
+2.usage_data.csv	Monthly watch-time, activity score, pages viewed
+3.payments.csv	Monthly subscription payment logs, plan, amount, payment status
+4.churn.csv	Churned customers with churn date and churn reason.
 
-Tools & Technologies Used
+## Tools & Technologies Used
 
-Python (Pandas, NumPy)
+1.Python (Pandas, NumPy)
 
-Jupyter Notebook
+2.Jupyter Notebook
 
-MySQL / SQL
+3.MySQL / SQL
 
-Power BI
+4.Power BI
 
-Data Cleaning & EDA
+5.Data Cleaning & EDA
 
-DAX Measures
+6.DAX Measures
 
-Visualization & Dashboard Design
+7.Visualization & Dashboard Design
 
- Steps Performed
-1. Data Loading & Cleaning (Python)
+## Steps Performed
+**1. Data Loading & Cleaning (Python)**
 
 Handled missing values, incorrect types, duplicates
 
@@ -46,13 +46,13 @@ Cleaned dates and standardized payment status
 
 Engineered new fields: activity_score, tenure, last_active_month, revenue_per_user
 
-2. Data Transformation & Merging
+**2. Data Transformation & Merging**
 
 Joined all four datasets using common keys
 
 Created consolidated master table for modeling & SQL analysis
 
-3. Exploratory Data Analysis (EDA)
+**3. Exploratory Data Analysis (EDA)**
 
 Identified trends in engagement, payment behavior, and plan usage
 
@@ -60,7 +60,7 @@ Visualized churners vs non-churners
 
 Analyzed behavioral patterns leading to churn
 
-4. SQL Analysis
+**4. SQL Analysis**
 
 Queries included:
 
@@ -76,7 +76,7 @@ High-risk customer detection
 
 Payment failure impact on churn
 
-5. Power BI Dashboard
+**5. Power BI Dashboard**
 
 Built a fully interactive dashboard featuring:
 
@@ -92,11 +92,11 @@ Behavior-based churn (activity scores, payment failures)
 
 DAX for advanced metrics: churn rate, LTV, active user rate
 
- Dashboard Preview
+Dashboard Preview
 
 ![Alt text of the image]([https://github.com/singh-anuragg/Sales-Dashboard/blob/main/Screenshot%202025-10-11%20111527.png)
 
- Key Insights
+## Key Insights
 
 Customers with low activity scores showed 60% higher churn rate
 
@@ -107,13 +107,3 @@ Premium users had the highest retention, Basic users the lowest
 Churn peaked in month 5–6 after signup
 
 Gurugram & Bengaluru showed highest churn, Mumbai the lowest
-
- What This Project Shows
-
-This project highlights your ability to:
-
-✔ Work with real-world business datasets
-✔ Analyze churn & revenue loss
-✔ Use SQL for business-level insights
-✔ Build dashboards that help CEOs & Managers make decisions
-✔ Do end-to-end analytics like a professional Data Analyst
