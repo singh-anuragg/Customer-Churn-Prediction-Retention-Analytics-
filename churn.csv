@@ -1,0 +1,360 @@
+customer_id,churn_date,churn_reason
+C100003,2025-06-19,No use
+C100005,2025-10-26,Switch to competitor
+C100011,2025-09-14,Switch to competitor
+C100015,2025-11-07,Technical issues
+C100016,2024-08-19,Found better content
+C100021,2025-11-04,Switch to competitor
+C100023,2024-10-10,No use
+C100031,2025-09-25,Technical issues
+C100041,2025-05-11,No use
+C100047,2025-10-13,No use
+C100052,2025-07-21,Technical issues
+C100056,2024-08-08,Payment issues
+C100061,2025-02-26,Price
+C100062,2025-08-22,Payment issues
+C100063,2025-03-09,No use
+C100080,2025-09-21,Technical issues
+C100089,2025-10-22,No use
+C100092,2025-07-26,Payment issues
+C100102,2025-10-16,Technical issues
+C100103,2025-11-14,Price
+C100106,2025-01-04,Payment issues
+C100112,2025-10-10,Switch to competitor
+C100122,2025-09-30,Price
+C100126,2025-09-20,Price
+C100129,2025-10-07,Payment issues
+C100134,2024-12-29,No use
+C100144,2025-04-07,No use
+C100146,2025-11-04,Price
+C100152,2025-06-27,Price
+C100154,2025-11-19,Price
+C100164,2025-11-10,No use
+C100168,2025-10-25,Price
+C100176,2024-10-26,Payment issues
+C100180,2025-04-05,No use
+C100183,2025-09-28,Technical issues
+C100190,2025-10-15,Switch to competitor
+C100209,2025-10-22,No use
+C100210,2025-10-01,Price
+C100214,2025-07-15,No use
+C100218,2025-03-18,No use
+C100223,2025-09-24,Switch to competitor
+C100231,2025-01-03,Found better content
+C100232,2025-09-28,Price
+C100238,2025-04-17,Found better content
+C100240,2025-03-23,No use
+C100248,2025-03-13,Switch to competitor
+C100249,2025-11-02,No use
+C100250,2025-01-19,Price
+C100257,2025-10-02,Price
+C100278,2025-05-17,No use
+C100280,2025-10-29,No use
+C100292,2025-08-20,Price
+C100306,2025-10-07,Switch to competitor
+C100310,2025-11-02,No use
+C100315,2025-09-06,Switch to competitor
+C100318,2025-06-08,Switch to competitor
+C100327,2025-11-04,Switch to competitor
+C100343,2025-11-10,Technical issues
+C100354,2025-07-10,Technical issues
+C100355,2025-11-19,Switch to competitor
+C100358,2025-02-13,Technical issues
+C100363,2025-11-12,No use
+C100371,2025-10-07,Technical issues
+C100374,2025-11-05,Price
+C100382,2025-03-29,Price
+C100387,2025-09-26,No use
+C100396,2024-10-08,Price
+C100397,2025-06-14,Price
+C100413,2025-03-08,Switch to competitor
+C100422,2025-10-18,Technical issues
+C100423,2025-10-13,No use
+C100426,2025-02-11,No use
+C100430,2025-11-13,Payment issues
+C100434,2024-09-24,Switch to competitor
+C100435,2025-10-05,Technical issues
+C100437,2025-05-04,Price
+C100440,2025-11-05,Price
+C100459,2025-04-09,No use
+C100461,2024-11-15,Payment issues
+C100462,2025-10-15,Switch to competitor
+C100470,2025-05-22,Technical issues
+C100473,2025-07-15,Switch to competitor
+C100479,2025-10-22,Price
+C100481,2025-10-22,Switch to competitor
+C100484,2024-11-28,Switch to competitor
+C100486,2024-09-05,Switch to competitor
+C100487,2025-11-19,No use
+C100492,2025-06-30,Price
+C100494,2025-10-20,Switch to competitor
+C100502,2025-09-24,Switch to competitor
+C100503,2025-11-02,No use
+C100508,2025-10-03,No use
+C100512,2025-10-17,Switch to competitor
+C100513,2025-09-22,No use
+C100517,2025-08-14,Technical issues
+C100519,2024-09-15,Found better content
+C100532,2025-09-25,Switch to competitor
+C100533,2025-10-28,Payment issues
+C100542,2025-10-23,Price
+C100548,2025-09-15,Price
+C100552,2024-10-21,Payment issues
+C100555,2025-08-25,No use
+C100557,2025-10-16,Price
+C100558,2025-01-19,Switch to competitor
+C100559,2025-09-25,Found better content
+C100561,2025-03-05,Price
+C100566,2025-10-02,No use
+C100567,2025-05-08,Switch to competitor
+C100570,2025-05-21,Price
+C100575,2025-03-14,No use
+C100584,2025-10-27,Payment issues
+C100594,2025-10-13,No use
+C100601,2025-10-25,Price
+C100604,2025-07-31,Technical issues
+C100606,2025-11-17,Switch to competitor
+C100617,2025-05-10,Price
+C100627,2025-04-11,Switch to competitor
+C100628,2025-11-14,Price
+C100631,2025-11-15,Switch to competitor
+C100642,2025-10-28,Found better content
+C100649,2025-11-13,Switch to competitor
+C100662,2025-10-04,Price
+C100677,2025-11-07,Found better content
+C100684,2025-11-16,Found better content
+C100695,2025-05-08,Switch to competitor
+C100704,2024-09-24,Switch to competitor
+C100708,2025-11-18,Price
+C100712,2025-09-29,Switch to competitor
+C100722,2025-09-23,Technical issues
+C100735,2024-11-02,Technical issues
+C100751,2025-08-11,No use
+C100755,2024-12-04,Price
+C100765,2024-10-27,Technical issues
+C100772,2025-05-21,No use
+C100773,2025-02-05,No use
+C100780,2025-05-18,Technical issues
+C100789,2025-11-10,No use
+C100792,2025-02-27,Switch to competitor
+C100794,2025-11-02,Price
+C100803,2025-05-13,Price
+C100804,2025-10-01,Found better content
+C100808,2025-10-21,Technical issues
+C100818,2025-02-08,Price
+C100819,2025-04-16,Price
+C100821,2025-10-06,Price
+C100822,2024-10-10,No use
+C100828,2025-10-27,Found better content
+C100835,2025-08-21,No use
+C100847,2025-01-21,Technical issues
+C100849,2024-10-06,Technical issues
+C100857,2025-06-19,Payment issues
+C100864,2024-12-17,No use
+C100866,2025-06-26,No use
+C100874,2024-10-16,Technical issues
+C100875,2025-11-18,Payment issues
+C100883,2024-07-10,Price
+C100884,2025-11-01,Switch to competitor
+C100885,2024-09-26,Price
+C100894,2025-08-27,Switch to competitor
+C100900,2025-04-11,Technical issues
+C100904,2025-05-23,Switch to competitor
+C100922,2025-09-22,No use
+C100929,2025-10-16,No use
+C100930,2025-08-03,Price
+C100957,2025-10-21,Switch to competitor
+C100980,2025-10-09,Technical issues
+C100986,2025-05-31,No use
+C101002,2025-10-09,Price
+C101016,2025-03-30,Payment issues
+C101027,2024-12-12,Technical issues
+C101028,2025-07-11,Payment issues
+C101029,2025-02-25,Price
+C101036,2025-10-30,Price
+C101037,2025-02-26,Payment issues
+C101039,2025-09-18,Price
+C101049,2025-10-15,No use
+C101060,2025-09-21,Switch to competitor
+C101064,2025-10-22,Switch to competitor
+C101070,2025-10-23,Payment issues
+C101071,2025-07-03,No use
+C101080,2025-11-16,Technical issues
+C101083,2025-03-22,Technical issues
+C101087,2025-11-19,Switch to competitor
+C101090,2025-02-24,Technical issues
+C101093,2025-11-12,No use
+C101106,2025-10-27,No use
+C101110,2025-11-15,No use
+C101112,2025-11-08,No use
+C101122,2025-03-24,No use
+C101124,2025-11-11,Found better content
+C101128,2025-10-04,No use
+C101134,2025-09-30,Price
+C101152,2025-10-30,Price
+C101153,2025-07-23,No use
+C101155,2024-12-19,Switch to competitor
+C101159,2025-10-30,Price
+C101164,2025-08-14,Switch to competitor
+C101166,2025-10-07,No use
+C101171,2025-11-10,Price
+C101175,2025-04-28,Price
+C101176,2025-06-17,Switch to competitor
+C101177,2025-10-29,No use
+C101183,2025-10-09,Payment issues
+C101189,2024-10-27,Found better content
+C101192,2025-09-28,Price
+C101193,2025-05-27,Switch to competitor
+C101205,2025-08-11,No use
+C101206,2025-10-08,Price
+C101215,2025-05-21,Payment issues
+C101216,2024-12-18,Price
+C101220,2025-02-04,Switch to competitor
+C101221,2025-10-11,Price
+C101225,2025-05-09,Switch to competitor
+C101233,2025-09-02,Switch to competitor
+C101234,2025-08-29,Technical issues
+C101235,2025-10-21,Technical issues
+C101239,2024-11-20,Price
+C101240,2025-03-01,Found better content
+C101242,2025-10-13,Switch to competitor
+C101256,2025-11-12,Price
+C101260,2025-11-01,Price
+C101267,2025-11-14,Found better content
+C101271,2025-06-06,No use
+C101283,2025-10-24,No use
+C101287,2024-11-21,Technical issues
+C101288,2024-10-21,Price
+C101290,2025-03-28,Technical issues
+C101291,2025-10-24,Found better content
+C101292,2025-09-30,Technical issues
+C101301,2025-04-08,Switch to competitor
+C101302,2025-07-05,Switch to competitor
+C101303,2025-04-26,Switch to competitor
+C101314,2025-03-14,Technical issues
+C101337,2025-10-05,Price
+C101353,2025-08-23,Switch to competitor
+C101355,2025-10-21,Found better content
+C101361,2024-12-14,Found better content
+C101365,2025-11-13,Price
+C101367,2025-10-13,Payment issues
+C101370,2025-09-11,Switch to competitor
+C101378,2025-07-13,Price
+C101380,2025-09-27,Payment issues
+C101384,2025-09-16,Payment issues
+C101388,2025-07-08,Technical issues
+C101390,2025-02-13,Price
+C101399,2024-12-18,Switch to competitor
+C101404,2025-04-12,Switch to competitor
+C101405,2025-01-05,Payment issues
+C101411,2025-09-25,No use
+C101418,2025-11-05,No use
+C101420,2025-11-14,Switch to competitor
+C101424,2025-09-28,Price
+C101431,2025-10-12,Technical issues
+C101438,2025-11-13,Price
+C101445,2025-03-14,Switch to competitor
+C101451,2025-05-16,Price
+C101457,2025-07-15,Payment issues
+C101460,2025-10-24,No use
+C101467,2025-10-28,Price
+C101474,2025-11-05,Technical issues
+C101485,2025-10-08,Price
+C101486,2025-01-26,Price
+C101497,2025-11-06,No use
+C101499,2025-06-19,Payment issues
+C101505,2025-01-20,Switch to competitor
+C101514,2025-06-02,Price
+C101518,2025-10-11,No use
+C101523,2025-04-27,Technical issues
+C101527,2025-09-25,Found better content
+C101531,2024-12-23,No use
+C101536,2025-10-26,Switch to competitor
+C101546,2025-07-17,No use
+C101548,2025-09-14,No use
+C101551,2024-11-15,Payment issues
+C101560,2025-11-10,Payment issues
+C101563,2025-09-25,Technical issues
+C101569,2025-10-07,Price
+C101572,2025-11-02,No use
+C101578,2025-10-04,No use
+C101581,2025-06-14,Switch to competitor
+C101583,2025-02-18,Switch to competitor
+C101590,2025-07-08,Switch to competitor
+C101596,2025-04-02,Switch to competitor
+C101598,2025-10-09,Price
+C101601,2025-01-15,Payment issues
+C101604,2025-10-10,Switch to competitor
+C101616,2025-10-08,Switch to competitor
+C101617,2025-07-22,Switch to competitor
+C101622,2025-10-02,Switch to competitor
+C101626,2024-12-23,No use
+C101629,2025-11-19,Switch to competitor
+C101635,2025-07-05,No use
+C101642,2025-09-23,Price
+C101646,2024-11-22,No use
+C101662,2025-09-19,Price
+C101667,2025-11-06,No use
+C101685,2025-10-01,Price
+C101688,2025-07-17,Switch to competitor
+C101692,2025-10-19,Payment issues
+C101697,2025-11-02,No use
+C101700,2025-02-25,Price
+C101708,2025-11-06,Price
+C101709,2025-11-10,No use
+C101711,2024-09-27,No use
+C101714,2025-08-09,Found better content
+C101719,2025-11-11,Switch to competitor
+C101724,2025-05-20,No use
+C101727,2025-10-08,No use
+C101734,2025-11-09,Price
+C101740,2025-10-28,Switch to competitor
+C101743,2025-11-11,No use
+C101744,2025-09-26,Price
+C101746,2024-11-05,Payment issues
+C101749,2025-07-03,Payment issues
+C101751,2025-10-14,Price
+C101756,2024-12-10,No use
+C101759,2025-09-05,No use
+C101771,2024-07-29,Switch to competitor
+C101776,2025-07-13,Technical issues
+C101781,2025-03-20,Switch to competitor
+C101789,2024-09-24,Switch to competitor
+C101798,2024-12-02,No use
+C101805,2025-09-23,Technical issues
+C101809,2025-10-06,Price
+C101811,2025-07-28,Price
+C101817,2025-01-17,Price
+C101819,2025-11-05,Technical issues
+C101820,2024-11-11,Price
+C101821,2025-11-07,Found better content
+C101829,2025-10-27,Price
+C101830,2025-07-24,No use
+C101835,2025-10-30,Found better content
+C101840,2025-05-17,Switch to competitor
+C101844,2024-12-19,Price
+C101847,2025-05-11,Technical issues
+C101863,2025-03-03,Payment issues
+C101864,2025-11-13,No use
+C101865,2025-10-19,No use
+C101867,2025-11-16,Switch to competitor
+C101890,2025-10-24,Price
+C101900,2025-11-07,No use
+C101907,2025-11-19,Payment issues
+C101909,2025-08-20,Price
+C101911,2025-10-28,No use
+C101918,2025-05-03,Payment issues
+C101929,2025-09-26,Price
+C101930,2025-10-07,Payment issues
+C101939,2025-10-05,Switch to competitor
+C101949,2025-10-30,Price
+C101953,2024-08-29,Price
+C101957,2024-10-19,No use
+C101963,2025-09-24,Price
+C101971,2024-11-30,Switch to competitor
+C101984,2025-10-05,Price
+C101985,2025-05-04,No use
+C101987,2025-10-08,Switch to competitor
+C101991,2025-02-23,Switch to competitor
+C101994,2025-03-25,No use
+C101999,2025-06-03,Price
