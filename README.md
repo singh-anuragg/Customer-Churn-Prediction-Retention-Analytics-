@@ -17,8 +17,11 @@ The project uses 4 CSV files (synthetic but realistic):
 
 **Dataset	Description**
 1.customers.csv	Customer demographics, city, signup date, subscription plan
+
 2.usage_data.csv	Monthly watch-time, activity score, pages viewed
+
 3.payments.csv	Monthly subscription payment logs, plan, amount, payment status
+
 4.churn.csv	Churned customers with churn date and churn reason.
 
 ## Tools & Technologies Used
@@ -62,8 +65,6 @@ Analyzed behavioral patterns leading to churn
 
 **4. SQL Analysis**
 
-Queries included:
-
 Monthly churn rate
 
 Customer retention cohorts
@@ -94,7 +95,7 @@ DAX for advanced metrics: churn rate, LTV, active user rate
 
 Dashboard Preview
 
-![Alt text of the image]([https://github.com/singh-anuragg/Sales-Dashboard/blob/main/Screenshot%202025-10-11%20111527.png)
+![Alt text of the image]([https://github.com/singh-anuragg/Sales-Dashboard/blob/main/Screenshot%202025-10-11%20111527.png])
 
 ## Key Insights
 
