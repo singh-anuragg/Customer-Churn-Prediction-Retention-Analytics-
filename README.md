@@ -75,20 +75,6 @@ Payment failure impact on churn
 
 **5. Power BI Dashboard**
 
-Built a fully interactive dashboard featuring:
-
-KPIs: Total Users, Churn %, MRR, Revenue Loss
-
-Churn trend over months
-
-Plan-wise churn & revenue
-
-City segmentation
-
-Behavior-based churn (activity scores, payment failures)
-
-DAX for advanced metrics: churn rate, LTV, active user rate
-
 Dashboard Preview
 
 ![Alt text of the image](https://github.com/singh-anuragg/Customer-Churn-Prediction-Retention-Analytics-/blob/main/Screenshot%202025-11-29%20150142.png)
