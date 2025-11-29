@@ -15,6 +15,7 @@ This project demonstrates skills required for Data Analyst, Business Analyst, an
 The project uses 4 CSV files (synthetic but realistic):
 
 **Dataset	Description**
+
 1.customers.csv	Customer demographics, city, signup date, subscription plan
 
 2.usage_data.csv	Monthly watch-time, activity score, pages viewed
