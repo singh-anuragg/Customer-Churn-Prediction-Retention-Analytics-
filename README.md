@@ -1,4 +1,3 @@
-
 # Customer-Churn-Prediction-Retention-Analytics-
 
 An end-to-end data analytics project that simulates a real SaaS/OTT business environment and performs full-stack analysis using Python (Pandas, NumPy), SQL, and Power BI.
@@ -95,7 +94,7 @@ DAX for advanced metrics: churn rate, LTV, active user rate
 
 Dashboard Preview
 
-![Alt text of the image]([https://github.com/singh-anuragg/Sales-Dashboard/blob/main/Screenshot%202025-10-11%20111527.png])
+![Alt text of the image](https://github.com/singh-anuragg/Customer-Churn-Prediction-Retention-Analytics-/blob/main/Screenshot%202025-11-29%20150142.png)
 
 ## Key Insights
 
