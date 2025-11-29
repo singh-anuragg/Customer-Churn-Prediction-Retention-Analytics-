@@ -94,7 +94,7 @@ DAX for advanced metrics: churn rate, LTV, active user rate
 
  Dashboard Preview
 
-(Add your dashboard screenshots here after publishing.)
+![Alt text of the image](https://github.com/singh-anuragg/Sales-Dashboard/blob/main/Screenshot%202025-10-11%20111527.png)
 
  Key Insights
 
