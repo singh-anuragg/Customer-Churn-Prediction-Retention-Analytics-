@@ -10,10 +10,6 @@ It includes complete data cleaning, transformation, SQL analytics, exploratory a
 
 This project demonstrates skills required for Data Analyst, Business Analyst, and Power BI Analyst roles.
 
-## Dataset Description
-
-The project uses 4 CSV files (synthetic but realistic):
-
 **Dataset	Description**
 
 1.customers.csv	Customer demographics, city, signup date, subscription plan
